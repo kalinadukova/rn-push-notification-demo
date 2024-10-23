@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "944293650694",
-    "project_id": "react-native-test-360c8",
-    "storage_bucket": "react-native-test-360c8.appspot.com"
+    "project_number": "1097521322152",
+    "project_id": "rndemo-pushnotifications",
+    "storage_bucket": "rndemo-pushnotifications.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:944293650694:android:867c97f22be577f99a3e87",
+        "mobilesdk_app_id": "1:1097521322152:android:7dafb67881df7e78cc4a9d",
         "android_client_info": {
           "package_name": "com.awesomeproject"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC32dHtPq7DtPNDD-Szu7O26GHUkbibTyQ"
+          "current_key": "AIzaSyBLkFLGf9GzOPleQvCs_jcEgo_N5TfSAA4"
         }
       ],
       "services": {
